@@ -28,5 +28,6 @@ namespace YKarpchuk_MVC_EFProject.Models
         //}
 
 
+
     }
 }
