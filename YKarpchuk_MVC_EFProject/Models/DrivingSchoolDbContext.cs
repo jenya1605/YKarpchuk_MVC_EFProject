@@ -26,5 +26,7 @@ namespace YKarpchuk_MVC_EFProject.Models
         //    // Database.SetInitializer<DrivingSchoolDbContext>(new DropCreateDatabaseIfModelChanges<DrivingSchoolDbContext>());
         //    Database.SetInitializer(new DrivingSchoolDbInitialiser());
         //}
+
+
     }
 }
